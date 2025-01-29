@@ -1,4 +1,4 @@
-from bot import BookingBot
+from booking_bot import BookingBot
 
 def main() -> None:
     BookingBot()
